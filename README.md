@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Technique-LSB%20%26%20Metadata%20Steganography-green?logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white" />
   <img src="https://img.shields.io/badge/GUI-Tkinter%20%26%20CustomTkinter-orange?logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Application-Cybersecurity%20Tool-red?logo=shield&logoColor=white" />
-  <img src="[https://img.shields.io/github/stars/Godakash007/Steganography-Tool?style=social](https://github.com/Godakash007/Steganogrphy-Tool)" />
+   <img src="https://img.shields.io/github/stars/Godakash007/Steganography-Tool?style=social" />
 </p>
 
 ## 🧩 Introduction
