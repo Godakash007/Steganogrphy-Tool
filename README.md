@@ -1,5 +1,13 @@
 # 🔐 Steganography Tool
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technique-LSB%20%26%20Metadata%20Steganography-green?logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/GUI-Tkinter%20%26%20CustomTkinter-orange?logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Application-Cybersecurity%20Tool-red?logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Godakash007/Steganography-Tool?style=social" />
+</p>
+
 ## 🧩 Introduction
 
 The **Steganography Tool** is a Python-based cybersecurity application designed to **securely hide and extract sensitive information** within digital files such as **images, PDFs, and DOCX documents**.
